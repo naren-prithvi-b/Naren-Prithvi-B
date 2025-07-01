@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **SDET at Azentio**
 
-- 👯 I’m looking to collaborate on **Selenium Automation Script**
+- 👯 I’m looking to collaborate on **Selenium Automation Script and playwright utomation Script**
 
-- 💬 Ask me about **Postman,Jira,Selenium**
+- 💬 Ask me about **Postman,Jira,Selenium,Playwright**
 
 - 📫 How to reach me **narenprithvihamilton@gmail.com**
 
