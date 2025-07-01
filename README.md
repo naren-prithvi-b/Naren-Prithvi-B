@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naren-prithvi-b" alt="naren-prithvi-b" /></a> </p>
 
-- 🔭 I’m currently working as **QA Engineer at Expleo Solutions**
+- 🔭 I’m currently working as **SDET at Azentio**
 
 - 👯 I’m looking to collaborate on **Selenium Automation Script**
 
